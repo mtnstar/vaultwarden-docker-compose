@@ -4,5 +4,8 @@ https://github.com/dani-garcia/vaultwarden
 
 ## Installation
 
-`cd ~/docker && mkdir vaultwarden`
-`docker compose up`
+```
+cd ~/docker
+git clone https://github.com/mtnstar/vaultwarden-docker-compose
+docker compose up
+```
